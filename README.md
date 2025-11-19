@@ -108,4 +108,24 @@ console.log(header.width, header.height, header.version);
 
 ## Credits
 
-The format is created by [Eric_Lian](https://github.com/exercisebook) and have been used since Milthm 1.4. The library is created by [Q78KG](https://github.com/Hoshino-Yumetsuki) based on reverse engineering results, later the technical disclosure is authorized.
+The library is originally created by [Q78KG](https://github.com/Hoshino-Yumetsuki) based on [qaqFei](https://github.com/qaqFei)'s reverse engineering results, later the disclosure of technical details and specs of milimg format is authorized and it became a official project.
+
+## Copyright
+```
+milimg.js - reference encoder & decoder implementation of the milimg format
+Copyright (C) 2024-present  Morizero, Hoshino Yumetsuki
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, see
+<https://www.gnu.org/licenses/>.
+```
